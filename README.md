@@ -57,10 +57,9 @@ Follow these steps to set up the project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/wallpaper.git
+    git clone https://github.com/Shreya657/APOD.git
     cd wallpaper
     ```
-    *(Note: Replace `your-username/wallpaper.git` with the actual repository URL if available, otherwise assume `wallpaper` is the project name based on `package.json`.)*
 
 2.  **Install dependencies:**
     ```bash
